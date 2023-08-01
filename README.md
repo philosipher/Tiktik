@@ -49,3 +49,6 @@ As seguintes rotas da API estão disponíveis:
 - [GET] Get User: /{ID}
 - [GET] Get All Users: /play
 - [DELETE] Delete User: /play/{ID}
+
+## Autor
+Esse projeto foi desenvolvido por [Diogo Vilela](https://diogovilela12.github.io/Portfolio/)
